@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Anitype Redwood1';
+    src: url('AnitypeRedwood-1.woff2') format('woff2'),
+        url('AnitypeRedwood-1.woff') format('woff'),
+        url('AnitypeRedwood-1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
